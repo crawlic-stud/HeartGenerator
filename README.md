@@ -24,4 +24,6 @@ $ python GUI.py
 ![img_5.png](pics/img_5.png)
 ![img_6.png](pics/img_6.png)
 ***
-            
+### Contacts:
+* [Telegram](https://t.me/crawlic)
+* [VK](https://vk.com/ovalmercyy)
