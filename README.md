@@ -2,7 +2,7 @@
 ***
 Very simple and intuitive GUI for creating heart images and saving them in .png. Based on Pillow library for Python.
 ***
-## Getting started.
+## How to launch.
 1. You'll need to clone repository.
 ```
 $ git clone https://github.com/crawlic-stud/HeartGenerator.git
