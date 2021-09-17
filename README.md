@@ -17,11 +17,11 @@ $ python GUI.py
 ![](pics/img_icon.png)
 ***
 ## Examples:
-  * ![img_1.png](pics/img_1.png)
-    * ![img_2.png](pics/img_2.png)
-      * ![img_3.png](pics/img_3.png)
-        * ![img_4.png](pics/img_4.png)
-          * ![img_5.png](pics/img_5.png)
-            * ![img_6.png](pics/img_6.png)
+![img_1.png](pics/img_1.png)
+![img_2.png](pics/img_2.png)
+![img_3.png](pics/img_3.png)
+![img_4.png](pics/img_4.png)
+![img_5.png](pics/img_5.png)
+![img_6.png](pics/img_6.png)
 ***
             
